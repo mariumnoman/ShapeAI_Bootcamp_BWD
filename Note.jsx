@@ -5,7 +5,7 @@ function Note(){
   return(
     <div className="note">
       <h1>Javascript and React.js</h1>
-      <p>This was an amazing bootcamp taken by Shaurya Sinha. We covered every thinh from Scrath including Javascript React.js, HTML.
+      <p>This was an amazing bootcamp taken by Shaurya Sinha. We covered every thing from scratch including Javascript React.js, HTML.
       </p>
     </div>
   );
